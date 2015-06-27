@@ -1,0 +1,93 @@
+body {
+    margin-top: 100px;
+    font-size: 12px;
+    font-family: Georgia;
+}
+
+h2 {
+    color: #666;
+}
+
+th, td {
+    color: #999;
+}
+
+.error {
+    color: red;
+    font-weight: bold;
+}
+
+table td {
+    border-top: none;
+}
+
+.table th, .table td {
+    border-top: none;
+}
+
+.mynavbar {
+    text-align: center;
+}
+
+.mynavbar .nav {
+    float: none;
+}
+
+.navbar-header {
+    float: left;
+    padding: 5px;
+    text-align: center;
+    width: 100%;
+    color:#fff;
+}
+.navbar-brand {float:none; color: #31708f;}
+a.navbar-brand {float:none; color: #31708f;}
+
+
+.mynavbar .nav li {
+    display: inline-block;
+    float: none;
+    margin: 0 20px;
+    vertical-align: middle;
+}
+
+.mynavbar .nav li a {
+    background: transparent;
+    color: #428bca;
+    font-weight: bold;
+    font-size: 14px;
+    /*text-shadow: 0px 0px #246;*/
+}
+
+.mynavbar .nav li a:hover {
+    background: transparent;
+    color: #428bca;
+    font-weight: bold;
+    font-size: 16px;
+    /*text-shadow: 0px 0px #246;*/
+}
+
+.friend-panel{
+    display: block;
+    height: 180px;
+    border: 2px solid #d9edf7;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 2px;
+}
+
+.friend-panel .picture-div{
+    float:left;
+    width:150px;
+    height: 150px;
+}
+
+.friend-panel .info-div{
+    float:left;
+    width:60%;
+    height: 150px;
+    padding: 10px;
+}
+
+
+
